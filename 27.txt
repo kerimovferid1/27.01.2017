@@ -1,0 +1,59 @@
+﻿
+
+                                                               /  Programming Paradigms / Object Oriented Programming Concepts/
+
+
+Imperative Paradigm- Proqramlaşdırma dillərininn çoxu imperativdir. FORTAN və BASİC bundan 
+istifadə edir.Bu və başqa dillər imeperativ olduğundan bir alqorqoritm üzrə gedir. 
+İmperativdə olan ko daa raat oxunur və bu da çox əlverişlidi.Buna aid esas xüsusiyyət prossein 
+step step getməsidir. 
+
+
+Functional Paradigm- Funksional program Lips,Haskell və Scala kimi dillərdə istifadə olunur.
+imperativ və funksional arasında əsas fərq odur ki, data transformasiya funkisonalda zəifdir.    
+Məsələn burada for və while əvəzinə rekursiyadan istifadə olunur.Burada bir məsələnin həlli müxtəlif
+ yəni  çox ola bilər.
+
+
+Logic Paradigm-  Bu paradigma mətiqə əsaslanır və faktlar və aksiomlaraı təmsil edir. aksiomatika və 
+müddəalar arqumentlər ola bilər. Gələcəkdə bu paradigmalara daa da maraq artacaq çünki süni intelek bu
+bunun üzərində qurula bilər.
+
+
+Object-oriented paradigm-  burada hər şey obyekt kimi baxılır. bu classlaral işləyir ki,
+biz bunda təkrar istifadə edə bilərik. Bu isə varistik yöntəmindən istifadədir.Bu  paradigma y
+addaşda çox yer tutmur . Bunun classa görə belədir calssdan bir neçə dəfə istifadə  edə bilir. Bu paradigmadan
+C++, Java, Smalltalk, Delphi, C#, Perl, Python, Ruby, and PHP dilərində isitfadə olunur.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
+                                                                        / Object Oriented Programming/
+
+Object- komputer elmlərində obyekt dəyişən, funksiya, və ya metod və data sturukturdur. Məsələn database idarəsində
+obyekt tablellar və columnlardı..
+
+
+Class-  bu anlayış hər hansı bir obyektin xassələrini özündə saxlayır. Bu maşın klassı və ya başqa klass ola bilər.
+Bunun icində isə maşının xüsusiyyətləri olur.
+
+Inheritance- Varislik hər hansı klassın və ya obyektin başqa klassa və ya obyekte əsaslanır. Məsələn ola biər ki bir nəqlliyat 
+vasitəsi klasımız var və masın klasımızd bu klasnda varislik alımiş olur. 
+
+
+ Polymorphism- Polimorfiz dedikde çox ölçülü deməkdir.yeni bir klass digər klassa oz ozeliyinim ötürmək xüsusiyyətidir.
+Məsələn babadan nəvəyə ötürülən gözün qurluşu və ya rəngi ola bilər..
+
+
+Abstraction- biz burada prosesin nece getdiyini yox neticeni bir başa görürük.Yəni classda gizliliyi saxliyir ancaq onun
+ inicde olan aqqında məlumatı saxliyir.
+
+
+Encapsulation- adınanda göründüyü kimi kapsulasiya edir yəni qoruyur . Bu məlumat funksayalarını gizlətməyə xidməıt edir və 
+private public protected istifadə edərək yerinə yetirir.
+1)Private-  Ancaq həmin klass metodu access edir. 
+2)Protected- burada əlavə olaraq subclasslar metodlardan istifadə edə bilir.
+3)Public- hər class istifadə edə bilir. 
